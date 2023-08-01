@@ -61,4 +61,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: SEV1616/taski_backend:latest
+          tags: sev1616/taski_backend:latest
